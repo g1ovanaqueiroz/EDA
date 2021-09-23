@@ -6,7 +6,6 @@ class doisSomam {
 
 	public static void main(String[] args) {
 
-		// leitura
 		Scanner reader = new Scanner(System.in);
 		String[] input = reader.nextLine().split(" ");
 		int n = reader.nextInt();
